@@ -10,7 +10,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "\"git+https://github.com/parsad/mywebsites.git\""
+    "url": "\"git+https://github.com/parsad/parProjects.git\""
   },
   "devDependencies": {
     "grunt": "^1.0.3",
